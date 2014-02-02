@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Comment CommentText="El ColorVector, esta aqui por si las moscas. Con la nueva implementacion, es muy probable que desaparezca.">
+    <Position X="19.047" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="En el kernel deben ir solo las clases bases o pudieran ir algunas implementaciones de algoritmos? ">
+    <Position X="7.825" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="TxEstudioKernel.TxObject" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxObject.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxImage" Collapsed="true">
+    <Position X="30.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxImage.cs</FileName>
+      <HashCode>ACIAEooABCKAgAAACAAABEAEAAAAACCgAAggCAgAABE=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TxEstudioKernel.TxAlgorithm" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxAlgorithm.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxDIPAlgorithm" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxDIPAlgorithm.cs</FileName>
+      <HashCode>AAAAAAQAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxOneBand" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>TxOneToOne.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxMultiBandOutput" Collapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>TxOneToMany.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxMultiBand" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>TxManyToOne.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxGeneral" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>TxManyToMany.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxPixelWiseOperator" Collapsed="true">
+    <Position X="1.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxPixelWiseOperator.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxGrayScalePixelWise" Collapsed="true">
+    <Position X="2.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxGrayScalePixelWise.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxColorPixelWise" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxColorPixelWise.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxHistogram" Collapsed="true">
+    <Position X="28.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxHistogram.cs</FileName>
+      <HashCode>AAACAAAQgAAAAgAACAAAAAAAAAAAAAAAAAAQABAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxNegative" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxNegative.cs</FileName>
+      <HashCode>AAAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxColorDecomposition" Collapsed="true">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxColorDecomposition.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxColorComposition" Collapsed="true">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxColorComposition.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxSegmentationAlgorithm" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>TxSegmentationAlgorithm.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxSegmentationResult" Collapsed="true">
+    <Position X="26" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>TxSegmentationResult.cs</FileName>
+      <HashCode>AAAAgAAABQEAAAABCAAAAEAAAAAAACAAAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxMatrixOperator">
+    <Position X="17.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>TxMatrixOperator.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TextureDescriptor">
+    <Position X="20.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>TextureDescriptor.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TextureDescriptorSequence">
+    <Position X="20.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TextureDescriptor.cs</FileName>
+      <HashCode>AAAAAAAAACAABAAAIACAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TxEstudioKernel.GeneralDescriptorSequence" Collapsed="true">
+    <Position X="20.75" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>TextureDescriptor.cs</FileName>
+      <HashCode>AAIAAAAAAAAABAAAAADAAAAAgAAAAAAAIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.TxMatrix" Collapsed="true">
+    <Position X="33" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TxMatrix.cs</FileName>
+      <HashCode>AAIAAAIABSAAAAAACAIABEAAAAAAAEAAAABQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TxEstudioKernel.TxSegmentationOperator" Collapsed="true">
+    <Position X="23.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>TxSegmentationOperator.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TxEstudioKernel.ColorVector" Collapsed="true">
+    <Position X="35.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ColorVector.cs</FileName>
+      <HashCode>EAACAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAABAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+</ClassDiagram>

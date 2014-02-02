@@ -1,0 +1,694 @@
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.BrightContrastDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.BrightContrastDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.BrightContrastDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.PCAResult.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.BrightContrastDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.PCAResult.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Buzon\TxEstudio 2.0 (diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.BrightContrastDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.PCAResult.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe.config
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.BorderFromImage.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.BorderTextForm.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.CombinationMethodDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ContourPaintForm.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Combination_Methods.EdgeDetectorSelector.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ClassSettingViewer.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.CustomGroupBox.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.PictureControl.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.DialogoYadi.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.BrightContrastDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ComposeDialogBox.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.HistogramViewer.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageMultiSelectionBox.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Custom_Controls.ImageSelectionBox.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.DescriptorDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.ExternalFiltersDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Feature_Selection.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.PCAResult.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.QualityDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationComparisonDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.Selection_Result.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TonesTexturesBase.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.TotalEdgesDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.ImageHolderForm.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.MainForm.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.MultiBandDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.OneBandDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Properties.Resources.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.Dialogs.SegmentationDialog.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.SegmentationResultForm.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.TxAppForm.resources
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.csproj.GenerateResource.Cache
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\obj\Debug\TxEstudioApplication.exe.licenses
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\TxEstudioApplication.exe
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\TxEstudioApplication.pdb
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\TxEstudioKernel.dll
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\AForge.Neuro.dll
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\Janus.Windows.UI.v2.xml
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\TxEstudioKernel.pdb
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\Janus.Windows.GridEX.v2.xml
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\Janus.Windows.TimeLine.v2.xml
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\Janus.Windows.Schedule.v2.xml
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\Janus.Windows.ExplorerBar.v2.xml
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\Janus.Windows.ButtonBar.v2.xml
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\TxEstudioApplication\bin\Debug\Janus.Windows.CalendarCombo.v2.xml

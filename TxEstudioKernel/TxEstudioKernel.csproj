@@ -1,0 +1,347 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5C860F05-287F-4786-ADB2-02A3B53DFB78}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TxEstudioKernel</RootNamespace>
+    <AssemblyName>TxEstudioKernel</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=0.0.1.25637, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>References\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Neuro, Version=0.0.1.25637, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>References\AForge.Neuro.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomAttributes\CoocurrenceMatrixAttribute.cs" />
+    <Compile Include="CustomAttributes\AbbreviationAttribute.cs" />
+    <Compile Include="CustomAttributes\AlgorithmAttribute.cs" />
+    <Compile Include="ColorVector.cs" />
+    <Compile Include="CustomAttributes\CustomParameterEditorAttribute.cs" />
+    <Compile Include="CustomAttributes\IntegerInSequenceAttribute.cs" />
+    <Compile Include="CustomAttributes\MomentsDescriptorAttribute.cs" />
+    <Compile Include="CustomAttributes\ParameterAttribute.cs" />
+    <Compile Include="CustomAttributes\EdgeDetectorAttribute.cs" />
+    <Compile Include="CustomAttributes\FeatureDescriptorAtribute.cs" />
+    <Compile Include="CustomAttributes\FirstOrderStatisticAttribute.cs" />
+    <Compile Include="CustomAttributes\GaborDescriptorAttribute.cs" />
+    <Compile Include="CustomAttributes\GigitalFilterAttribute.cs" />
+    <Compile Include="CustomAttributes\ImagePreprocessingMethodAttribute.cs" />
+    <Compile Include="Features Selection\SFFS.cs" />
+    <Compile Include="Misc.cs" />
+    <Compile Include="OpenCV\CV.cs" />
+    <Compile Include="OpenCV\CXCore.cs" />
+    <Compile Include="OpenCV\HighGUI.cs" />
+    <Compile Include="OpenCV\OpenCVLibraries.cs" />
+    <Compile Include="OpenCV\_cvMat.cs" />
+    <Compile Include="OpenCV\_cvScalar.cs" />
+    <Compile Include="OpenCV\_cvSparseMat.cs" />
+    <Compile Include="OpenCV\_IplConvKernel.cs" />
+    <Compile Include="OpenCV\_IplImage.cs" />
+    <Compile Include="Operators\AndOperator.cs" />
+    <Compile Include="Operators\AC_BiClass.cs" />
+    <Compile Include="Operators\AC_LSO_ED.cs" />
+    <Compile Include="Operators\AC_MultiClass.cs" />
+    <Compile Include="Operators\Anisotropic.cs" />
+    <Compile Include="Operators\ArithmeticOperators.cs" />
+    <Compile Include="Operators\ART2.cs" />
+    <Compile Include="Operators\ART2Segm.cs" />
+    <Compile Include="Operators\BlackHatFilter.cs" />
+    <Compile Include="Operators\Black_WhiteSymmetry.cs" />
+    <Compile Include="Operators\Canny.cs" />
+    <Compile Include="Operators\CCSizeFilter.cs" />
+    <Compile Include="Operators\CentralSymetry.cs" />
+    <Compile Include="Operators\Clasificador.cs" />
+    <Compile Include="Operators\ClosingFilter.cs" />
+    <Compile Include="Operators\Combination Methods\AAAA.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Operators\Connected Components\ConnectedComponentsSegmentation.cs" />
+    <Compile Include="Operators\Connected Components\ConnectedComponentsToolkit.cs" />
+    <Compile Include="Operators\Connected Components\DisjointSets.cs" />
+    <Compile Include="Operators\Connected Components\GrayScaleImageSimplification.cs" />
+    <Compile Include="Operators\Connected Components\NewCCF.cs" />
+    <Compile Include="Operators\Connected Components\SegmentationSimplification.cs" />
+    <Compile Include="Operators\Connected Components\SpecialSparsedMatrix.cs" />
+    <Compile Include="Operators\Contrast.cs" />
+    <Compile Include="Operators\DeviationDescriptor.cs" />
+    <Compile Include="Operators\DFTFilt.cs" />
+    <Compile Include="Operators\DilateFilter.cs" />
+    <Compile Include="Operators\DirectionalOperators.cs" />
+    <Compile Include="Operators\DisjointSets.cs" />
+    <Compile Include="Operators\Energy.cs" />
+    <Compile Include="Operators\Entropy.cs" />
+    <Compile Include="Operators\FuzzyART.cs" />
+    <Compile Include="Operators\FuzzyARTSegm.cs" />
+    <Compile Include="Operators\FuzzyKMeanImagenes.cs" />
+    <Compile Include="Operators\FuzzyKMeans.cs" />
+    <Compile Include="Operators\GaborEnergyTextureDescriptor2D.cs" />
+    <Compile Include="Operators\GaborGratingCellTextureDescriptor2D.cs" />
+    <Compile Include="Operators\GaborSimpleTextureDescriptor2D.cs" />
+    <Compile Include="Operators\GaborWaveletTextureDescriptor2D.cs" />
+    <Compile Include="Operators\GaussianFilter.cs" />
+    <Compile Include="Operators\GrayLevelNonuniformity.cs" />
+    <Compile Include="Operators\Homomorfic.cs" />
+    <Compile Include="Operators\IClasificable.cs" />
+    <Compile Include="Operators\IEvaluable.cs" />
+    <Compile Include="Operators\ImageQualityAssessment\CBM.cs" />
+    <Compile Include="Operators\ImageQualityAssessment\ImageQuality.cs" />
+    <Compile Include="Operators\ImageQualityAssessment\MSSIM.cs" />
+    <Compile Include="Operators\ImageQualityAssessment\UIQ.cs" />
+    <Compile Include="Operators\InverseDiferentMoment.cs" />
+    <Compile Include="Operators\IsotropicFilter.cs" />
+    <Compile Include="Operators\KirshEdgeDetector.cs" />
+    <Compile Include="Operators\KMean.cs" />
+    <Compile Include="Operators\KmeanNoSupervImagenes.cs" />
+    <Compile Include="Operators\KMeanNoSupervisado.cs" />
+    <Compile Include="Operators\KMeanNoSupervMengHeeHeng.cs" />
+    <Compile Include="Operators\KmeanNoSupervMengHeeHengImagenes.cs" />
+    <Compile Include="Operators\KMeanSupervisado.cs" />
+    <Compile Include="Operators\Kmean_Batch_Update.cs" />
+    <Compile Include="Operators\KohonenSegm.cs" />
+    <Compile Include="Operators\Laplacian.cs" />
+    <Compile Include="Operators\MatrizCoocurrencia.cs" />
+    <Compile Include="Operators\MaximumDescriptor.cs" />
+    <Compile Include="Operators\MeanDescriptor.cs" />
+    <Compile Include="Operators\MeanShiftSegmention.cs" />
+    <Compile Include="Operators\MijisEdgeDetector.cs" />
+    <Compile Include="Operators\MomentDescriptors.cs" />
+    <Compile Include="Operators\MorphologicalGradientFilter.cs" />
+    <Compile Include="Operators\Multi-Escale Retinex.cs" />
+    <Compile Include="Operators\OpeningFilter.cs" />
+    <Compile Include="Operators\OrOperator.cs" />
+    <Compile Include="Operators\PrewittEdgeDetector.cs" />
+    <Compile Include="Operators\SecondAngularMoment.cs" />
+    <Compile Include="Operators\Sobel.cs" />
+    <Compile Include="Operators\Sobel1.cs" />
+    <Compile Include="Operators\Sobel2.cs" />
+    <Compile Include="Operators\StandarDeviationDescriptor.cs" />
+    <Compile Include="Operators\SWA.cs" />
+    <Compile Include="Operators\TablaClases.cs" />
+    <Compile Include="Operators\Texture Edge Detector\Ac_TED.cs" />
+    <Compile Include="Operators\Texture Edge Detector\ComplexNumbers.cs" />
+    <Compile Include="Operators\Texture Edge Detector\UnidimensionalGabor.cs" />
+    <Compile Include="Operators\TextureBoundarySegmentation.cs" />
+    <Compile Include="Operators\TopHatFilter.cs" />
+    <Compile Include="Operators\TSContrast.cs" />
+    <Compile Include="Operators\DegreeOfDirection.cs" />
+    <Compile Include="Operators\TSEnergy.cs" />
+    <Compile Include="Operators\ErodeFilter.cs" />
+    <Compile Include="Operators\GeometricSymmetry.cs" />
+    <Compile Include="Operators\Haralick.cs" />
+    <Compile Include="Operators\Homogeneity.cs" />
+    <Compile Include="Operators\LongRun.cs" />
+    <Compile Include="Operators\MarrHildreth_EdgeDetector.cs" />
+    <Compile Include="Operators\MicroDiagonalStructure1.cs" />
+    <Compile Include="Operators\MicroDiagonalStructure2.cs" />
+    <Compile Include="Operators\MicroHorizontalStructure.cs" />
+    <Compile Include="Operators\MicroVerticalStructure.cs" />
+    <Compile Include="Operators\MinimumDescriptor.cs" />
+    <Compile Include="Operators\RunLength.cs" />
+    <Compile Include="Operators\RunLengthNonuniformity.cs" />
+    <Compile Include="Operators\RunPercentage.cs" />
+    <Compile Include="Operators\ShortRun.cs" />
+    <Compile Include="Operators\SmoothBilateralBlur.cs" />
+    <Compile Include="Operators\SmoothGaussianBlur.cs" />
+    <Compile Include="Operators\SmoothMedianBlur.cs" />
+    <Compile Include="Operators\SmoothSimpleBlurFilter.cs" />
+    <Compile Include="Operators\TextureSpectrum.cs" />
+    <Compile Include="Operators\TxCoocurrenceDescriptor.cs" />
+    <Compile Include="Operators\FeaturesPostProcessing.cs" />
+    <Compile Include="Operators\Vector.cs" />
+    <Compile Include="Operators\VectorColores.cs" />
+    <Compile Include="Operators\XorOperator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CustomAttributes\RealInRangeAttribute.cs" />
+    <Compile Include="CustomAttributes\RunLenthAttribute.cs" />
+    <Compile Include="CustomAttributes\TextureSpectrumAttribute.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SegmentationSimilarity\Heap.cs" />
+    <Compile Include="SegmentationSimilarity\HungarianAlgortihm.cs" />
+    <Compile Include="SegmentationSimilarity\SegmentationSimilarityMeasure.cs" />
+    <Compile Include="SegmentationSimilarity\StableMarriageAlgorithm.cs" />
+    <Compile Include="TextureDescriptor.cs" />
+    <Compile Include="TxAlgorithm.cs" />
+    <Compile Include="CustomAttributes\TxCategoryAttribute.cs" />
+    <Compile Include="TxBrightContrast.cs" />
+    <Compile Include="TxColorComposition.cs" />
+    <Compile Include="TxColorPixelWise.cs" />
+    <Compile Include="CustomAttributes\TxConstraintAttribute.cs" />
+    <Compile Include="CustomAttributes\TxCustomAttribute.cs" />
+    <Compile Include="CustomAttributes\TxDescriptorAttribute.cs" />
+    <Compile Include="TxDIPAlgorithm.cs" />
+    <Compile Include="TxException.cs" />
+    <Compile Include="TxGrayScalePixelWise.cs" />
+    <Compile Include="TxHistogram.cs" />
+    <Compile Include="TxHistogramEqualization.cs" />
+    <Compile Include="TxImage.cs" />
+    <Compile Include="TxManyToMany.cs" />
+    <Compile Include="TxManyToOne.cs" />
+    <Compile Include="TxMatrix.cs" />
+    <Compile Include="TxMatrixOperator.cs" />
+    <Compile Include="TxMorphKernel.cs" />
+    <Compile Include="TxNegative.cs" />
+    <Compile Include="TxObject.cs" />
+    <Compile Include="TxOneToMany.cs" />
+    <Compile Include="TxOneToOne.cs" />
+    <Compile Include="TxPCA.cs" />
+    <Compile Include="TxPixelWiseOperator.cs" />
+    <Compile Include="TxColorDecomposition.cs" />
+    <Compile Include="TxSegmentationAlgorithm.cs" />
+    <Compile Include="TxSegmentationEvaluation.cs" />
+    <Compile Include="TxSegmentationOperator.cs" />
+    <Compile Include="TxSegmentationResult.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TxSparseMatrix.cs" />
+    <Compile Include="TxTextureEdgeDetector.cs" />
+    <Compile Include="TxVector.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="VisualElements\AlgorithmViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisualElements\AlgorithmViewer.designer.cs">
+      <DependentUpon>AlgorithmViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualElements\ArrayEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisualElements\ArrayEditor.Designer.cs">
+      <DependentUpon>ArrayEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualElements\DirectionEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisualElements\DirectionEditor.Designer.cs">
+      <DependentUpon>DirectionEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualElements\ErrorParameterEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisualElements\ErrorParameterEditor.Designer.cs">
+      <DependentUpon>ErrorParameterEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualElements\GeneralParameterEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisualElements\GeneralParameterEditor.Designer.cs">
+      <DependentUpon>GeneralParameterEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualElements\IParameterEditor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VisualElements\MUltiScaleParameterEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisualElements\MUltiScaleParameterEditor.Designer.cs">
+      <DependentUpon>MUltiScaleParameterEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualElements\ParameterEditorProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CustomAttributes\CustomAttributesDiagram.cd" />
+    <None Include="KernelClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualElements\AlgorithmViewer.resx">
+      <DependentUpon>AlgorithmViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualElements\ArrayEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ArrayEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualElements\DirectionEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DirectionEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualElements\ErrorParameterEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ErrorParameterEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualElements\GeneralParameterEditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GeneralParameterEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualElements\MUltiScaleParameterEditor.resx">
+      <DependentUpon>MUltiScaleParameterEditor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\north.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\east.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\northEast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\northWest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\south.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\southEast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\southWest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\west.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Operators\ImageQualityAssessment\NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

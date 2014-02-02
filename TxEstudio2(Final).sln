@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TxEstudioApplication", "TxEstudioApplication\TxEstudioApplication.csproj", "{E664CF9A-9EAA-43F3-908D-1E8C89E78401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TxEstudioKernel", "TxEstudioKernel\TxEstudioKernel.csproj", "{5C860F05-287F-4786-ADB2-02A3B53DFB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseManager", "DataBaseManager\DataBaseManager.csproj", "{823FABEF-E124-4208-AE4D-FAEFB509CE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E664CF9A-9EAA-43F3-908D-1E8C89E78401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E664CF9A-9EAA-43F3-908D-1E8C89E78401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E664CF9A-9EAA-43F3-908D-1E8C89E78401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E664CF9A-9EAA-43F3-908D-1E8C89E78401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C860F05-287F-4786-ADB2-02A3B53DFB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C860F05-287F-4786-ADB2-02A3B53DFB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C860F05-287F-4786-ADB2-02A3B53DFB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C860F05-287F-4786-ADB2-02A3B53DFB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823FABEF-E124-4208-AE4D-FAEFB509CE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823FABEF-E124-4208-AE4D-FAEFB509CE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823FABEF-E124-4208-AE4D-FAEFB509CE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823FABEF-E124-4208-AE4D-FAEFB509CE40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

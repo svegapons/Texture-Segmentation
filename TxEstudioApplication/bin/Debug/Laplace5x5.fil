@@ -1,0 +1,10 @@
+Otros filtros
+Laplace5x5
+5 :Numero de filas
+5 :Numero de Columnas
+1 :Factor amplitud
+ 0 -1 -1 -1  0
+-1  0  1  0 -1
+-1  1  8  1 -1
+-1  0  1  0 -1
+ 0 -1 -1 -1  0

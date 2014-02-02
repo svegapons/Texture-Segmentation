@@ -1,0 +1,12 @@
+bin\Release\DataBaseManager.dll.config
+bin\Release\DataBaseManager.dll
+bin\Release\DataBaseManager.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DataBaseManager.dll
+obj\Release\DataBaseManager.pdb
+bin\Debug\DataBaseManager.dll.config
+bin\Debug\DataBaseManager.dll
+bin\Debug\DataBaseManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataBaseManager.dll
+obj\Debug\DataBaseManager.pdb

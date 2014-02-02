@@ -1,0 +1,11 @@
+Features Selected
+
+foto carne+fo_ave(3,3)
+foto carne+fo_devi(3,3)
+
+
+Set of Features
+
+foto carne
+foto carne+fo_ave(3,3)
+foto carne+fo_devi(3,3)

@@ -1,0 +1,435 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E664CF9A-9EAA-43F3-908D-1E8C89E78401}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TxEstudioApplication</RootNamespace>
+    <AssemblyName>TxEstudioApplication</AssemblyName>
+    <ApplicationIcon>TxEstudioIco.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Janus.Windows.ButtonBar.v2, Version=2.0.1130.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.CalendarCombo.v2, Version=2.0.1130.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.Common.v2, Version=2.0.1130.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.ExplorerBar.v2, Version=2.0.1130.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.GridEX.v2, Version=2.0.1130.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.Schedule.v2, Version=2.0.1130.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.TimeLine.v2, Version=2.0.1130.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.UI.v2, Version=2.0.1130.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddOn.cs" />
+    <Compile Include="AlgorithmHolder.cs" />
+    <Compile Include="Combination Methods\BorderFromImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combination Methods\BorderFromImage.Designer.cs">
+      <DependentUpon>BorderFromImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Combination Methods\BorderTextForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combination Methods\BorderTextForm.Designer.cs">
+      <DependentUpon>BorderTextForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryHolder.cs" />
+    <Compile Include="Combination Methods\CombinationMethodDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combination Methods\CombinationMethodDialog.Designer.cs">
+      <DependentUpon>CombinationMethodDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Combination Methods\ContourPaintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combination Methods\ContourPaintForm.Designer.cs">
+      <DependentUpon>ContourPaintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Combination Methods\EdgeDetectorSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combination Methods\EdgeDetectorSelector.Designer.cs">
+      <DependentUpon>EdgeDetectorSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\ClassSettingViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\ClassSettingViewer.Designer.cs">
+      <DependentUpon>ClassSettingViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\CustomGroupBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\CustomGroupBox.Designer.cs">
+      <DependentUpon>CustomGroupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\HistogramCanvas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\HistogramCanvas.Designer.cs">
+      <DependentUpon>HistogramCanvas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\PictureControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\PictureControl.Designer.cs">
+      <DependentUpon>PictureControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DescriptorsHandler.cs" />
+    <Compile Include="DialogoYadi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogoYadi.Designer.cs">
+      <DependentUpon>DialogoYadi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\BrightContrastDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\BrightContrastDialog.Designer.cs">
+      <DependentUpon>BrightContrastDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\ComposeDialogBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\ComposeDialogBox.Designer.cs">
+      <DependentUpon>ComposeDialogBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\HistogramViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\HistogramViewer.Designer.cs">
+      <DependentUpon>HistogramViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\ImageMultiSelectionBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\ImageMultiSelectionBox.Designer.cs">
+      <DependentUpon>ImageMultiSelectionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\ImageSelectionBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\ImageSelectionBox.Designer.cs">
+      <DependentUpon>ImageSelectionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DescriptorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DescriptorDialog.Designer.cs">
+      <DependentUpon>DescriptorDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\ExternalFiltersDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\ExternalFiltersDialog.Designer.cs">
+      <DependentUpon>ExternalFiltersDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Feature Selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Feature Selection.Designer.cs">
+      <DependentUpon>Feature Selection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\PCA Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\PCA Result.Designer.cs">
+      <DependentUpon>PCA Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\QualityDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\QualityDialog.Designer.cs">
+      <DependentUpon>QualityDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SegmentationComparisonDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SegmentationComparisonDialog.Designer.cs">
+      <DependentUpon>SegmentationComparisonDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Selection Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Selection Result.Designer.cs">
+      <DependentUpon>Selection Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\TonesTexturesBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\TonesTexturesBase.Designer.cs">
+      <DependentUpon>TonesTexturesBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\TotalEdgesDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\TotalEdgesDialog.Designer.cs">
+      <DependentUpon>TotalEdgesDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Environment.cs" />
+    <Compile Include="Environment_AddOns.cs" />
+    <Compile Include="Environment_DataBase.cs" />
+    <Compile Include="Environment_Operators_Loading.cs" />
+    <Compile Include="Environment_Panels.cs" />
+    <Compile Include="ImageHolderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageHolderForm.Designer.cs">
+      <DependentUpon>ImageHolderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\IClipboardManager.cs" />
+    <Compile Include="Interfaces\IImageExposer.cs" />
+    <Compile Include="Interfaces\IPrintManager.cs" />
+    <Compile Include="Interfaces\IPropertiesExposer.cs" />
+    <Compile Include="Interfaces\ISaveManager.cs" />
+    <Compile Include="Interfaces\IZoomManager.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\MultiBandDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\MultiBandDialog.Designer.cs">
+      <DependentUpon>MultiBandDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MouseOverImage.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Combination Methods\BorderFromImage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BorderFromImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Combination Methods\BorderTextForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BorderTextForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Combination Methods\CombinationMethodDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CombinationMethodDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Combination Methods\ContourPaintForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ContourPaintForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Combination Methods\EdgeDetectorSelector.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdgeDetectorSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\ClassSettingViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ClassSettingViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\CustomGroupBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CustomGroupBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\PictureControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PictureControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogoYadi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DialogoYadi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\BrightContrastDialog.resx">
+      <DependentUpon>BrightContrastDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\ComposeDialogBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ComposeDialogBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\HistogramViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HistogramViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\ImageMultiSelectionBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ImageMultiSelectionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\ImageSelectionBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ImageSelectionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DescriptorDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DescriptorDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\ExternalFiltersDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ExternalFiltersDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Feature Selection.resx">
+      <DependentUpon>Feature Selection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\PCA Result.resx">
+      <DependentUpon>PCA Result.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\QualityDialog.resx">
+      <DependentUpon>QualityDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SegmentationComparisonDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SegmentationComparisonDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Selection Result.resx">
+      <DependentUpon>Selection Result.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\TonesTexturesBase.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TonesTexturesBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\TotalEdgesDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TotalEdgesDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageHolderForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ImageHolderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\MultiBandDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MultiBandDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\OneBandDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OneBandDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SegmentationDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SegmentationDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SegmentationResultForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SegmentationResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TxAppForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TxAppForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Dialogs\OneBandDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\OneBandDialog.Designer.cs">
+      <DependentUpon>OneBandDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SegmentationDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SegmentationResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SegmentationResultForm.Designer.cs">
+      <DependentUpon>SegmentationResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="TxAppForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TxAppForm.Designer.cs">
+      <DependentUpon>TxAppForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataBaseManager\DataBaseManager.csproj">
+      <Project>{823FABEF-E124-4208-AE4D-FAEFB509CE40}</Project>
+      <Name>DataBaseManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TxEstudioKernel\TxEstudioKernel.csproj">
+      <Project>{5C860F05-287F-4786-ADB2-02A3B53DFB78}</Project>
+      <Name>TxEstudioKernel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\clock.png" />
+    <None Include="Resources\counterclock.png" />
+    <None Include="Resources\Filter2HS.BMP" />
+    <None Include="Resources\FlipHorizontalHS.bmp" />
+    <None Include="Resources\FlipVerticalHS.bmp" />
+    <None Include="Resources\PropertiesHS.BMP" />
+    <None Include="Resources\DisplayInColorHS.bmp" />
+    <None Include="Resources\counterclock.bmp" />
+    <None Include="Resources\clock.bmp" />
+    <None Include="Resources\zoomIn.bmp" />
+    <None Include="Resources\zoomOut.bmp" />
+    <None Include="Resources\grayBallbmp.bmp" />
+    <None Include="Resources\grayBall.png" />
+    <None Include="Resources\redBall.png" />
+    <None Include="Resources\greenBall.png" />
+    <None Include="Resources\blueBall.png" />
+    <None Include="Resources\histogram.png" />
+    <None Include="Resources\right_arrow.png" />
+    <None Include="Resources\left_arrow.png" />
+    <None Include="Resources\double_arrow2.png" />
+    <None Include="Resources\double_left_arrow.png" />
+    <None Include="Resources\openHS.bmp" />
+    <None Include="Resources\segmentResIco.png" />
+    <Content Include="TxEstudioIco.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

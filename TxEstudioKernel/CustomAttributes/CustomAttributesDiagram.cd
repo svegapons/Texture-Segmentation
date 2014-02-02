@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="TxEstudioKernel.CustomAttributes.AbbreviationAttribute" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\AbbreviationAttribute.cs</FileName>
+      <HashCode>AEIAEABAAAAAAAAAQAAAAAQCAAAAAAAAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.AlgorithmAttribute" Collapsed="true">
+    <Position X="27.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\AlgorithmAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.CoocurrenceMatrixDescriptorAttribute" Collapsed="true">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\CoocurrenceMatrixAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.CustomParameterEditorAttribute" Collapsed="true">
+    <Position X="25.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\CustomParameterEditorAttribute.cs</FileName>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.EdgeDetectorAttribute" Collapsed="true">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\EdgeDetectorAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.FeatureDescriptorAtribute" Collapsed="true">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\FeatureDescriptorAtribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.FirstOrderStatisticDescriptorAttribute" Collapsed="true">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\FirstOrderStatisticAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.GaborDescriptorAttribute" Collapsed="true">
+    <Position X="11.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\GaborDescriptorAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.DigitalFilterAttribute" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\GigitalFilterAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.ImagePreprocessingMethodAttribute" Collapsed="true">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\ImagePreprocessingMethodAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.IntegerInSequenceAttribute" Collapsed="true">
+    <Position X="20.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\IntegerInSequenceAttribute.cs</FileName>
+      <HashCode>gAAAEACCAAAQAAAAAAAAAAAAAAAgAAAAIAAAAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.ParameterAttribute" Collapsed="true">
+    <Position X="29.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\ParameterAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.RealInRangeAttribute" Collapsed="true">
+    <Position X="23" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\RealInRangeAttribute.cs</FileName>
+      <HashCode>gAAAEACCAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.RunLenthDescriptorAttribute" Collapsed="true">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\RunLenthAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.TextureSpectrumDescriptorAttribute" Collapsed="true">
+    <Position X="2.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\TextureSpectrumAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.TxCategoryAttribute" Collapsed="true">
+    <Position X="10.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\TxCategoryAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.TxConstraintAttribute">
+    <Position X="24" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\TxConstraintAttribute.cs</FileName>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.TxCustomAttribute" Collapsed="true">
+    <Position X="16.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\TxCustomAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.CustomAttributes.TxDescriptorAttribute" Collapsed="true">
+    <Position X="28" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CustomAttributes\TxDescriptorAttribute.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAIAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TxEstudioKernel.Misc" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Misc.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,78 @@
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Mis documentos\Tesis de Monica\TxEstudio 2.0 (7-3-08)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\13 TxEstudio 2.0 (2-6-08)MonicaFinal\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (02-07-09)(Combinado)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (16-07-09)(Combinado)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)(Combinado)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Agosto)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\maquina vieja\D\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\bin\Debug\DataBaseManager.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\obj\Debug\DataBaseManager.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Septiembre)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\bin\Debug\DataBaseManager.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\obj\Debug\DataBaseManager.dll
+F:\Proyecto Tx-Estudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Octubre)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Buzon\TxEstudio 2.0 (diciembre)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Buzon\TxEstudio 2.0 (diciembre)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Buzon\TxEstudio 2.0 (diciembre)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Buzon\TxEstudio 2.0 (diciembre)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Buzon\TxEstudio 2.0 (diciembre)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Proyectos\Proyecto TxEstudio\Union\TxEstudio 2.0 (Diciembre)\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\DataBaseManager\bin\Debug\DataBaseManager.dll.config
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\DataBaseManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Proyectos\Texturas\TxEstudio 2.0 (Enero2010)\DataBaseManager\obj\Debug\DataBaseManager.pdb

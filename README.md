@@ -2,7 +2,7 @@
 
 TxStudio: C# framework for texture image segmentation developed during our Ms.C. studies (2007)
 
-Author: 
+Authors: 
 - Sandro Vega Pons (sv.pons@gmail.com)
 - Oscar Luis Vera Perez
 - Francisco Vera Voronisky

@@ -1,4 +1,6 @@
-# Image segmentation framework based on texture features
+# Image segmentation framework based on texture features.
+
+TxStudio: C# framework for texture image segmentation developed during our Ms.C. studies (2007)
 
 Author: Sandro Vega Pons (sv.pons@gmail.com)
         Oscar Luis Vera Perez
